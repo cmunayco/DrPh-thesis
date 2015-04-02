@@ -1,0 +1,367 @@
+                                 _____________________________
+
+                                        SaTScan v9.4.1
+                                 _____________________________
+
+
+Program run on: Thu Apr  2 12:02:29 2015
+
+Prospective Space-Time analysis
+scanning for clusters with high or low rates
+using the Discrete Poisson model.
+_______________________________________________________________________________________________
+
+SUMMARY OF DATA
+
+Study period.......................: 2004/1/1 to 2007/12/31
+Number of locations................: 43
+Total population...................: 7587635
+Total number of cases..............: 47032
+Annual cases / 100000..............: 155.0
+_______________________________________________________________________________________________
+
+CLUSTERS DETECTED
+
+1.Location IDs included.: 150141, 150122, 150130, 150131
+  Coordinates / radius..: (12.113550 S, 77.013100 W) / 2.85 km
+  Time frame............: 2006/1/1 to 2007/12/31
+  Population............: 358028
+  Number of cases.......: 375
+  Expected cases........: 1106.74
+  Annual cases / 100000.: 52.5
+  Observed / expected...: 0.34
+  Relative risk.........: 0.33
+  Log likelihood ratio..: 331.695663
+  Monte Carlo rank......: 1/10000
+  P-value...............: 0.0001
+  Recurrence interval...: 10000 years
+
+2.Location IDs included.: 150140
+  Coordinates / radius..: (12.125450 S, 76.984180 W) / 0 km
+  Time frame............: 2006/1/1 to 2007/12/31
+  Population............: 285837
+  Number of cases.......: 292
+  Expected cases........: 905.05
+  Annual cases / 100000.: 50.0
+  Observed / expected...: 0.32
+  Relative risk.........: 0.32
+  Log likelihood ratio..: 286.784014
+  Monte Carlo rank......: 1/10000
+  P-value...............: 0.0001
+  Recurrence interval...: 10000 years
+
+3.Location IDs included.: 150136, 150121, 150120, 150113
+  Coordinates / radius..: (12.076290 S, 77.091020 W) / 4.61 km
+  Time frame............: 2006/1/1 to 2007/12/31
+  Population............: 336508
+  Number of cases.......: 463
+  Expected cases........: 1043.52
+  Annual cases / 100000.: 68.8
+  Observed / expected...: 0.44
+  Relative risk.........: 0.44
+  Log likelihood ratio..: 207.919767
+  Monte Carlo rank......: 1/10000
+  P-value...............: 0.0001
+  Recurrence interval...: 10000 years
+
+4.Location IDs included.: 150111, 150137
+  Coordinates / radius..: (12.039430 S, 76.987450 W) / 2.65 km
+  Time frame............: 2006/1/1 to 2007/12/31
+  Population............: 364919
+  Number of cases.......: 1869
+  Expected cases........: 1150.25
+  Annual cases / 100000.: 251.8
+  Observed / expected...: 1.62
+  Relative risk.........: 1.65
+  Log likelihood ratio..: 194.165463
+  Monte Carlo rank......: 1/10000
+  P-value...............: 0.0001
+  Recurrence interval...: 10000 years
+
+5.Location IDs included.: 150114
+  Coordinates / radius..: (12.087970 S, 76.925570 W) / 0 km
+  Time frame............: 2006/1/1 to 2007/12/31
+  Population............: 126782
+  Number of cases.......: 97
+  Expected cases........: 405.57
+  Annual cases / 100000.: 37.1
+  Observed / expected...: 0.24
+  Relative risk.........: 0.24
+  Log likelihood ratio..: 170.819024
+  Monte Carlo rank......: 1/10000
+  P-value...............: 0.0001
+  Recurrence interval...: 10000 years
+
+6.Location IDs included.: 150115
+  Coordinates / radius..: (12.072220 S, 77.017140 W) / 0 km
+  Time frame............: 2006/1/1 to 2007/12/31
+  Population............: 211160
+  Number of cases.......: 1157
+  Expected cases........: 645.76
+  Annual cases / 100000.: 277.6
+  Observed / expected...: 1.79
+  Relative risk.........: 1.81
+  Log likelihood ratio..: 166.297513
+  Monte Carlo rank......: 1/10000
+  P-value...............: 0.0001
+  Recurrence interval...: 10000 years
+
+7.Location IDs included.: 150124, 150138, 150129, 150127, 150126, 150119
+  Coordinates / radius..: (12.466230 S, 76.775020 W) / 26.02 km
+  Time frame............: 2006/1/1 to 2007/12/31
+  Population............: 85145
+  Number of cases.......: 146
+  Expected cases........: 274.61
+  Annual cases / 100000.: 82.4
+  Observed / expected...: 0.53
+  Relative risk.........: 0.53
+  Log likelihood ratio..: 36.549734
+  Monte Carlo rank......: 1/10000
+  P-value...............: 0.0001
+  Recurrence interval...: 10000 years
+
+8.Location IDs included.: 150105
+  Coordinates / radius..: (12.058960 S, 77.050430 W) / 0 km
+  Time frame............: 2006/1/1 to 2007/12/31
+  Population............: 88485
+  Number of cases.......: 157
+  Expected cases........: 271.86
+  Annual cases / 100000.: 89.5
+  Observed / expected...: 0.58
+  Relative risk.........: 0.58
+  Log likelihood ratio..: 28.803067
+  Monte Carlo rank......: 1/10000
+  P-value...............: 0.0001
+  Recurrence interval...: 10000 years
+
+9.Location IDs included.: 150102, 150139, 150106
+  Coordinates / radius..: (11.701260 S, 77.098290 W) / 16.90 km
+  Time frame............: 2006/1/1 to 2007/12/31
+  Population............: 239108
+  Number of cases.......: 586
+  Expected cases........: 772.58
+  Annual cases / 100000.: 117.5
+  Observed / expected...: 0.76
+  Relative risk.........: 0.76
+  Log likelihood ratio..: 24.977306
+  Monte Carlo rank......: 1/10000
+  P-value...............: 0.0001
+  Recurrence interval...: 10000 years
+
+10.Location IDs included.: 150128
+   Coordinates / radius..: (12.023350 S, 77.032660 W) / 0 km
+   Time frame............: 2006/1/1 to 2007/12/31
+   Population............: 189614
+   Number of cases.......: 423
+   Expected cases........: 583.32
+   Annual cases / 100000.: 112.4
+   Observed / expected...: 0.73
+   Relative risk.........: 0.72
+   Log likelihood ratio..: 24.659940
+   Monte Carlo rank......: 1/10000
+   P-value...............: 0.0001
+   Recurrence interval...: 10000 years
+
+11.Location IDs included.: 150118
+   Coordinates / radius..: (11.958580 S, 76.801470 W) / 0 km
+   Time frame............: 2006/1/1 to 2007/12/31
+   Population............: 162137
+   Number of cases.......: 685
+   Expected cases........: 518.56
+   Annual cases / 100000.: 204.7
+   Observed / expected...: 1.32
+   Relative risk.........: 1.33
+   Log likelihood ratio..: 24.538045
+   Monte Carlo rank......: 1/10000
+   P-value...............: 0.0001
+   Recurrence interval...: 10000 years
+
+12.Location IDs included.: 150142
+   Coordinates / radius..: (12.218040 S, 76.944630 W) / 0 km
+   Time frame............: 2006/1/1 to 2007/12/31
+   Population............: 374054
+   Number of cases.......: 1397
+   Expected cases........: 1187.24
+   Annual cases / 100000.: 182.3
+   Observed / expected...: 1.18
+   Relative risk.........: 1.18
+   Log likelihood ratio..: 18.007005
+   Monte Carlo rank......: 1/10000
+   P-value...............: 0.0001
+   Recurrence interval...: 10000 years
+
+13.Location IDs included.: 150101
+   Coordinates / radius..: (12.051280 S, 77.048650 W) / 0 km
+   Time frame............: 2006/1/1 to 2007/12/31
+   Population............: 325944
+   Number of cases.......: 847
+   Expected cases........: 999.10
+   Annual cases / 100000.: 131.4
+   Observed / expected...: 0.85
+   Relative risk.........: 0.84
+   Log likelihood ratio..: 12.465256
+   Monte Carlo rank......: 3/10000
+   P-value...............: 0.0003
+   Recurrence interval...: 3333 years
+
+14.Location IDs included.: 150109, 150107
+   Coordinates / radius..: (12.076310 S, 76.778170 W) / 9.49 km
+   Time frame............: 2006/1/1 to 2007/12/31
+   Population............: 65402
+   Number of cases.......: 147
+   Expected cases........: 208.44
+   Annual cases / 100000.: 109.3
+   Observed / expected...: 0.71
+   Relative risk.........: 0.70
+   Log likelihood ratio..: 10.145006
+   Monte Carlo rank......: 15/10000
+   P-value...............: 0.0015
+   Recurrence interval...: 667 years
+
+15.Location IDs included.: 150133
+   Coordinates / radius..: (12.160690 S, 76.969070 W) / 0 km
+   Time frame............: 2007/1/1 to 2007/12/31
+   Population............: 366390
+   Number of cases.......: 481
+   Expected cases........: 579.44
+   Annual cases / 100000.: 128.6
+   Observed / expected...: 0.83
+   Relative risk.........: 0.83
+   Log likelihood ratio..: 8.983957
+   Monte Carlo rank......: 33/10000
+   P-value...............: 0.0033
+   Recurrence interval...: 303 years
+
+16.Location IDs included.: 150112
+   Coordinates / radius..: (11.987330 S, 77.046070 W) / 0 km
+   Time frame............: 2006/1/1 to 2007/12/31
+   Population............: 215019
+   Number of cases.......: 725
+   Expected cases........: 670.05
+   Annual cases / 100000.: 167.7
+   Observed / expected...: 1.08
+   Relative risk.........: 1.08
+   Log likelihood ratio..: 2.226628
+   Monte Carlo rank......: 9587/10000
+   P-value...............: 0.9587
+   Recurrence interval...: 1.0 year
+
+17.Location IDs included.: 150108
+   Coordinates / radius..: (12.192950 S, 77.008170 W) / 0 km
+   Time frame............: 2006/1/1 to 2007/12/31
+   Population............: 288077
+   Number of cases.......: 850
+   Expected cases........: 907.01
+   Annual cases / 100000.: 145.2
+   Observed / expected...: 0.94
+   Relative risk.........: 0.94
+   Log likelihood ratio..: 1.865701
+   Monte Carlo rank......: 9911/10000
+   P-value...............: 0.9911
+   Recurrence interval...: 1.0 year
+
+A cluster is statistically significant when its log likelihood ratio is greater than the
+critical value, which is, for significance level:
+
+Standard Monte Carlo Critical Values:
+.... 0.0001: 13.339726
+..... 0.001: 10.286211
+...... 0.01: 7.955641
+...... 0.05: 6.278699
+_______________________________________________________________________________________________
+
+PARAMETER SETTINGS
+
+Input
+-----
+  Case File        : /Users/cvmunayco/Documents/Satscan/tb_cases.cas
+  Population File  : /Users/cvmunayco/Documents/Satscan/population_lima.pop
+  Time Precision   : Year
+  Start Time       : 2004/1/1
+  End Time         : 2007/12/31
+  Coordinates File : /Users/cvmunayco/Documents/Satscan/tb.lima.geo
+  Grid File        : /Users/cvmunayco/Documents/Satscan/tb_grid.grd
+  Coordinates      : Latitude/Longitude
+
+Analysis
+--------
+  Type of Analysis        : Prospective Space-Time
+  Probability Model       : Discrete Poisson
+  Scan for Areas with     : High or Low Rates
+  Time Aggregation Units  : Year
+  Time Aggregation Length : 1
+
+Output
+------
+  Main Results File       : /Users/cvmunayco/Documents/Repository/DrPh-thesis/results_5perct.txt
+  Cluster File            : /Users/cvmunayco/Documents/Repository/DrPh-thesis/results_5perct.col.txt
+  Shapefile               : /Users/cvmunayco/Documents/Repository/DrPh-thesis/results_5perct.col.shp
+  Stratified Cluster File : /Users/cvmunayco/Documents/Repository/DrPh-thesis/results_5perct.sci.txt
+  Location File           : /Users/cvmunayco/Documents/Repository/DrPh-thesis/results_5perct.gis.txt
+  Risk Estimates File     : /Users/cvmunayco/Documents/Repository/DrPh-thesis/results_5perct.rr.txt
+  Simulated LLRs File     : /Users/cvmunayco/Documents/Repository/DrPh-thesis/results_5perct.llr.txt
+
+Data Checking
+-------------
+  Temporal Data Check     : Check to ensure that all cases and controls are within the specified temporal study period.
+  Geographical Data Check : Check to ensure that all observations (cases, controls and populations) are within the specified geographical area.
+
+Spatial Neighbors
+-----------------
+  Use Non-Euclidian Neighbors file : No
+  Use Meta Locations File          : No
+  Multiple Coordinates Type        : Allow only one set of coordinates per location ID.
+
+Spatial Window
+--------------
+  Maximum Spatial Cluster Size     : 5 percent of population at risk
+  Include Purely Temporal Clusters : No
+  Window Shape                     : Circular
+
+Temporal Window
+---------------
+  Minimum Temporal Cluster Size   : 1 Year
+  Maximum Temporal Cluster Size   : 50 percent of study period
+  Include Purely Spatial Clusters : No
+
+Space And Time Adjustments
+--------------------------
+  Temporal Adjustment                     : None
+  Adjust for Weekly Trends, Nonparametric : No
+  Spatial Adjustment                      : None
+  Adjust for known relative risks         : No
+
+Inference
+---------
+  P-Value Reporting                  : Standard Monte Carlo
+  Report Gumbel Based P-Values       : No
+  Number of Replications             : 9999
+  Adjusted for Earlier Analyses      : No
+  Adjusting for More Likely Clusters : No
+
+Spatial Output
+--------------
+  Report Hierarchical Clusters              : Yes
+  Criteria for Reporting Secondary Clusters : No Geographical Overlap
+  Restrict Reporting to Smaller Clusters    : No
+
+Temporal Graphs
+---------------
+  Produce Temporal Graphs : No
+
+Other Output
+------------
+  Report Critical Values     : Yes
+  Report Monte Carlo Rank    : Yes
+  Print ASCII Column Headers : Yes
+
+Run Options
+-----------
+  Processer Usage   : All Available Proccessors
+  Suppress Warnings : No
+  Logging Analysis  : Yes
+_______________________________________________________________________________________________
+
+Program completed  : Thu Apr  2 12:02:33 2015
+Total Running Time : 4 seconds
+Processor Usage    : 4 processors
