@@ -22,7 +22,8 @@ library(RColorBrewer)
 library(classInt)
 library(spBayes)
 library(SpatialEpi)
-
+library(AMOEBA)
+require(plotrix)
 
 tb_districts <- read.csv("DISTRITOS LIMA 04_07_11_12.csv",stringsAsFactors = FALSE)
 
@@ -298,9 +299,6 @@ title("Most Likely Cluster Controlling for Strata")
 
 
 
-data(scotland)
-data <- scotland$data
-
 data(NYleukemia)
 sp.obj <- NYleukemia$spatial.polygon
 population <- NYleukemia$data$population
@@ -338,4 +336,14 @@ plotmap(output$post.map$RR.est.area, sp.obj, log=TRUE)
 barplot(output$pk.y, names.arg=0:J, xlab="k", ylab="P(k|y)")
 
 
+data(columbus)
+map<-readShapePoly(system.file('etc/shapes/columbus.shp', package='spdep'))
+res<-AMOEBA(columbus$CRIME,col.gal.nb,1,1)
+color<-rev(rainbow(length(table(res)),start=0,end=2/6))
 
+quartz (height=6,width=5)
+plot(map,col=color[as.factor(res)])
+title("Clustering of crimes at Columbus (OH) ")
+names<-c("\nlow","\nMedium","\nHigh")
+color.legend(map@bbox[1,1],map@bbox[2,1]-0.2,map@bbox[1,2],
+             map@bbox[2,1]-0.4,names,color,align="rb")
