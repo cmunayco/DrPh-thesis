@@ -176,8 +176,6 @@ legend(locator(1), legend=names(attr(colcode, "table")), title="Quantiles",
        fill=attr(colcode, "palette"), cex=0.7, bty="n")
 #pointLabel(results5p@data$result5p_4,results5p@data$result5p_5, results5p@data$DISTRITO, offset = 0, cex = .4)
 
-
-
 ### Results SatScan window 10%
 class(results10p)
 head(results10p@data$result10_2)

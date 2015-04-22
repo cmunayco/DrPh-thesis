@@ -1,5 +1,0 @@
-CLUSTER             DATASET             CATEGORY            OBSERVED            EXPECTED            ODE                 REL_RISK            
-1                   1                   1                   1045                2692.18             0.39                0.37                
-2                   1                   1                   3211                1972.55             1.63                1.67                
-3                   1                   1                   1115                1859.02             0.60                0.59                
-4                   1                   1                   6753                7811.51             0.86                0.84                
