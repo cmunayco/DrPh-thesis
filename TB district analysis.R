@@ -37,9 +37,9 @@ aggdata_year <-aggregate(tb_districts$mdr, by=list(tb_districts$year),
 aggdata_year
 
 
-aggdata <-aggregate(tb_districts$mdr, by=list(tb_districts$distrito), 
+aggdata_districts <-aggregate(tb_districts$mdr, by=list(tb_districts$distrito), 
                     FUN="sum", na.rm=TRUE)
-aggdata
+aggdata_districts
 
 
 #las determines the orientation of the numbers on the tick marks;
@@ -75,13 +75,12 @@ plotmeans(tb_districts$tasa_tbpfp ~ tb_districts$distrito,
 
 
 #### TB incidence
-tb_districts$district <- reorder(tb_districts$distrito, tb_districts$incidencia, median, na.rm = TRUE)
 
 tb_districts$district <- reorder(tb_districts$distrito, tb_districts$incidencia, median, na.rm = TRUE)
 quartz(width=10, height=6, pointsize=8)
 par(mar=c(5,4,4,4)+2)
 boxplot(tb_districts$incidencia ~ tb_districts$district,axes=FALSE, 
-        ylab="Incidence of tuberculosis per 100,000 people", xlab="Year",
+        ylab="Incidence of tuberculosis per 100,000 people", xlab="District",
         main="",col="grey", ylim=c(0,350))
 orderVtr <- levels(tb_districts$district["scores"])
 axis(1, at=seq(1, 43, by=1), labels=FALSE)
@@ -256,7 +255,4 @@ legend(locator(1),c("Incidence of tuberculosis per 100,000 people","Incidence of
 
 
 
-#quartz (height=6,width=6.5)
-#coplot(tb_districts$incidencia ~ tb_districts$year|tb_districts$distrito, type="l", data=tb_districts)
 
- 

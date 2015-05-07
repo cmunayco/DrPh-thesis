@@ -35,10 +35,6 @@ dep_lima_centroide<-readShapeSpatial("centroide.shp")
 prov_lima_districts<-readShapeSpatial("limadistrict.shp", ID="UBIGEO")
 prov_lima_centroide<-readShapeSpatial("centroidelima.shp")
 results5p<-readShapeSpatial("result_5percent.shp")
-results10p<-readShapeSpatial("result_10percent.shp")
-results20p<-readShapeSpatial("result_20percent.shp")
-results30p<-readShapeSpatial("result_30percent.shp")
-results40p<-readShapeSpatial("result_40percent.shp")
 results50p<-readShapeSpatial("result_50percent.shp")
 
 
